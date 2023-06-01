@@ -12,11 +12,19 @@ Setelah kalian berhasil mengakses programnya, buatlah fitur CRUD untuk tabel yan
 
 
 ## Alur Program
-1. Berikan masukkan 
-2. Masukkan dimasukkan ke dalam variabel data
-3. Kemudian print outputnya
+1. Tekan Add data untuk menambah data
+2. Tekan edit untuk mengedit data
+3. Tekan delete untuk menghapus data
 
 ## Dokumentasi
-![image](https://user-images.githubusercontent.com/90915678/220280421-9ae89723-72a2-4cd7-b9a8-64ac6ecf549f.png)
+1. Tampil data 
+![image](https://github.com/azkanaon/LP11DPBO2023C2/assets/90915678/ea46bd97-3050-4998-a113-be215fe9920f)
+2. Delete data
+![delete](https://github.com/azkanaon/LP11DPBO2023C2/assets/90915678/8eb46077-84bd-4c07-8479-4ee241509f4b)
+3. Tambah data
+![add](https://github.com/azkanaon/LP11DPBO2023C2/assets/90915678/0fce8117-0d06-46e6-a368-b8ab62bbb781)
+4. Edit data
+![edit](https://github.com/azkanaon/LP11DPBO2023C2/assets/90915678/a2196a8c-64d5-4e33-b36e-bac4cf372c39)
+
 
 
